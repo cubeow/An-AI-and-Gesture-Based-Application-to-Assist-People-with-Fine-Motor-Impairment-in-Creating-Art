@@ -10,5 +10,4 @@ This was my freshman year science research project aimed at allowing people with
 * Prompting for stable diffusion's image-to-image feature. Just say the prompt out loud. To change the prompt, just resay the prompt. If you have the correct prompt and would like to finally confirm it and start generating the enhanced image, say "confirm"
 
 ## Watch a demo!
-<a href="https://www.youtube.com/watch?v=MGTBVCl5_5Q" target="_blank">
-</a>
+https://www.youtube.com/watch?v=MGTBVCl5_5Q
