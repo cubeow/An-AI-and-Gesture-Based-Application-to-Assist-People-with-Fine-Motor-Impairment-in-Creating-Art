@@ -1,3 +1,6 @@
+## Watch a demo!
+https://www.youtube.com/watch?v=MGTBVCl5_5Q
+
 # An AI and Gesture-Based Application to Assist People with Fine Motor Impairment in Creating Art
 
 ## This allows users to perform hand gestures to draw on the computer, and also has voice recognition to change color and use stable diffusion's image-to-image feature to enhance drawings.
@@ -9,5 +12,3 @@ This was my freshman year science research project aimed at allowing people with
 * Finish drawing. To finish drawing, say "save the drawing", and it'll move on to the AI segment
 * Prompting for stable diffusion's image-to-image feature. Just say the prompt out loud. To change the prompt, just resay the prompt. If you have the correct prompt and would like to finally confirm it and start generating the enhanced image, say "confirm"
 
-## Watch a demo!
-https://www.youtube.com/watch?v=MGTBVCl5_5Q
